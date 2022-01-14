@@ -7,6 +7,15 @@
     <groupId>org.example</groupId>
     <artifactId>dio-desafio-banco</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <name>banco-basic</name>
+    <description>Projeto de Banco</description>
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.22</version>
+        </dependency>
+    </dependencies>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
